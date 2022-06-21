@@ -1,0 +1,19 @@
+{
+    "name": "dfytech/press",
+    "description": "An elegant markdown-powered blog for the Laravel framework",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dfytech\\Press\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "M Iftakher Ahammed",
+            "email": "iahammed@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^7.5"
+    }
+}
